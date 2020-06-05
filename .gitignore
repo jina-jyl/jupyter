@@ -1,0 +1,4 @@
+*.log
+output*
+*.png
+.ipynb_checkpoints
